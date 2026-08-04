@@ -1,0 +1,6 @@
+{
+  "name": "UP Government Jobs",
+  "description": "Sarkari Result style job alert and recruitment portal for Sewayojan, Rojgar Sangam, UP Government Jobs, Admit Cards, and Results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
